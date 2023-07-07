@@ -1,6 +1,5 @@
 import os
 from tkinter import *
-from flask import Flask
 from PyPDF2 import PdfReader
 import pyttsx3
 from tkinter import filedialog
